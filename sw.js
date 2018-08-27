@@ -4,7 +4,7 @@ self.addEventListener('install', function(event){
 	event.waitUntil(
 		caches.open('cache-1').then(function(cache){
 			return cache.addAll([
-				'/'])
+				'./'])
 		}).then(function(){console.log('added static caches!')})
 	)
 })
