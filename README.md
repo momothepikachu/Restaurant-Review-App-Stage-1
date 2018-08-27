@@ -3,7 +3,7 @@
 
 ## Project Overview: Stage 1
 
-For the **Restaurant Reviews** projects, I will incrementally convert a static webpage to a mobile-ready web application. In **Stage One**, I took a static design that lacked accessibility and converted the design to be _**responsive**_ on different sized displays and _**accessible**_ for screen reader use. I also added a **service worker** to begin the process of creating a seamless _**offline experience**_ for my users.
+For the **Restaurant Reviews** projects, I will incrementally convert a static webpage to a mobile-ready web application. In **Stage One**, I took a [static design](https://github.com/udacity/mws-restaurant-stage-1) that lacked accessibility and converted the design to be _**responsive**_ on different sized displays and _**accessible**_ for screen reader use. I also added a **service worker** to begin the process of creating a seamless _**offline experience**_ for my users.
 
 ### How to Install the App
 
