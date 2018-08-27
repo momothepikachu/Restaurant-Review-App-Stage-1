@@ -198,7 +198,7 @@ getParameterByName = (name, url) => {
 if(!navigator.serviceWorker) {
   console.log('no SW...')
 };
-navigator.serviceWorker.register('/sw.js').then(function(){
+navigator.serviceWorker.register('./sw.js').then(function(){
   console.log('registered!')
 }).catch(function(){
   console.log('failed...')
